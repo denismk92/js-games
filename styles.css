@@ -15,6 +15,8 @@
     max-height: 100%;
 }
 
-#layer1, #layer2, #layer3, #layer4, #player, #angler1, #angler2, #lucky, #projectile, #gears {
+#layer1, #layer2, #layer3, #layer4, #player, #angler1, #angler2, #lucky,
+ #projectile, #gears, #drone, #hivewhale, #fireExplosion, #smokeExplosion,
+  #bulbwhale, #moonfish, #shield, #fireball, #razorfin, #stalker {
     display: none;
 }
